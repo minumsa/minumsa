@@ -1,1 +1,1 @@
-![Carver's Github](https://github-readme-stats.vercel.app/api/top-langs/?minumsa=6810779s&layout=compact&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
