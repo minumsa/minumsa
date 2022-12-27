@@ -17,5 +17,5 @@
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=black"/>
-  <img alt="Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>&nbsp
+  <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>&nbsp
 </p>
