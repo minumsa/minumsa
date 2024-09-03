@@ -1,6 +1,6 @@
 ### 👋 안녕하세요, 카버입니다!
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=Notion&logoColor=black&link=https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)]([https://rust-ocicat-1b0.notion.site/f61c9cea780144819507bf0616d3bd70](https://rust-ocicat-1b0.notion.site/f61c9cea780144819507bf0616d3bd70?pvs=74))
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=Notion&logoColor=black)](https://rust-ocicat-1b0.notion.site/f61c9cea780144819507bf0616d3bd70?pvs=74)
 
 
 * 도전을 좋아하는 주니어 웹 프론트엔드 개발자입니다. 👨‍💻
