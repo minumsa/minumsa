@@ -1,10 +1,6 @@
 ### 👋 안녕하세요, 카버입니다!
 
-<p>
-<a href="https://rust-ocicat-1b0.notion.site/f61c9cea780144819507bf0616d3bd70?pvs=74" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=Notion&logoColor=black" alt="Portfolio Badge">
-</a>
-</p>
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=Notion&logoColor=black)](https://rust-ocicat-1b0.notion.site/f61c9cea780144819507bf0616d3bd70?pvs=74)
 
 * 도전을 좋아하는 주니어 웹 프론트엔드 개발자입니다. 👨‍💻
 * 간결하고 흥미로운 UI/UX 디자인에 관심이 많습니다. 🎨
