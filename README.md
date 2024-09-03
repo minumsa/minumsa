@@ -1,4 +1,14 @@
-![Carver's github stats](https://github-readme-stats.vercel.app/api?username=minumsa&show_icons=true&theme=tokyonight)
+### 👋 안녕하세요, 카버입니다!
+
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=Notion&logoColor=black&link=https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)]([https://rust-ocicat-1b0.notion.site/f61c9cea780144819507bf0616d3bd70](https://rust-ocicat-1b0.notion.site/f61c9cea780144819507bf0616d3bd70?pvs=74))
+
+
+* 도전을 좋아하는 주니어 웹 프론트엔드 개발자입니다. 👨‍💻
+* 간결하고 흥미로운 UI/UX 디자인에 관심이 많습니다. 🎨
+* AI로부터 살아남기 위한 방법을 물색하고 있습니다. 🤖
+  
+**테크 스텍**  
+
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
